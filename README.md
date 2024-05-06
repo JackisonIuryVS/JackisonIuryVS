@@ -21,9 +21,9 @@
 
 <div>
     <a href="https://www.linkedin.com/in/jividal" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:jackisoniuryvs@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://twitter.com/jackisoniuryvs" target="_black"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.instagram.com/jackisoniuryvs" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+    <a href="mailto:jackisoniury@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://twitter.com/jackisoniury" target="_black"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://www.instagram.com/jackisoniury" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
 
 ##
