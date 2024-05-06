@@ -1,7 +1,6 @@
 ### Olá, eu sou o Jackison Iury!
 
 - 🌱 Estudando HTML, CSS, JavaScript, Java
-- 😄 Pronouns: ele/dele
 - ⚡ Uso o método Pomodoro e revisões ativas com Anki nos meus estudos
 
 <div>
